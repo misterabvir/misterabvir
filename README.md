@@ -13,7 +13,7 @@ This is where I store my completed study projects. In addition, I publish my wor
 From time to time I tried to program in different languages, but I always returned to my cherished love - СSharp. Do not count how many sleepless nights we spent together)) Therefore, most of the projects here will be in this language.
 
 ## Technology stack
-![My Skills](https://skillicons.dev/icons?i=git,github,cs,dotnet,unity,vscode,visualstudio,eclipse,js,ts,jquery,html,css,nodejs,angular,py,java,c,cpp,ps,linux,mysql,sqlite,md&perline=8)
+![My Skills](https://skillicons.dev/icons?i=git,github,cs,dotnet,unity,vscode,visualstudio,js,ts,jquery,html,css,py,mysql,sqlite,md&perline=8)
 
 ## My social media
 
