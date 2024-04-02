@@ -4,14 +4,6 @@
 
 ## About me
 
-Programming has long been one of my favorite hobbies. Now I'm trying to turn this old hobby of mine into a profession.
-
-I am a Geek Brains student specializing in development. This is my training repository.
-
-This is where I store my completed study projects. In addition, I publish my work done between classes.
-
-From time to time I tried to program in different languages, but I always returned to my cherished love - СSharp. Do not count how many sleepless nights we spent together)) Therefore, most of the projects here will be in this language.
-
 ## Technology stack
 ![My Skills](https://skillicons.dev/icons?i=git,github,cs,dotnet,rabbitmq,react,unity,vscode,visualstudio,js,ts,jquery,html,css,bootstrap,py,mysql,sqlite,postgres,md&perline=8)
 
